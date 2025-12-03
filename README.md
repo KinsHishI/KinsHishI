@@ -5,8 +5,27 @@
 <br/>
   
 #### :wave: Welcome my github profile !
-  
+
 <br/>
+
+#### 👇🏻 프로젝트 보러가기 👇🏻
+  
+#### 경북대학교 AI-conic Hackathon
+https://github.com/RE-BUY/RE-BUY-BE
+
+<br/>
+
+#### 경북대학교 경진대회
+https://github.com/As-KNU/AsKNU-BE
+
+<br/>
+
+#### 경북대학교 종합설계프로젝트1
+https://github.com/Efficient-AI-based-Development/Efficient-AI-based-Development-AI
+
+<br/>
+<br/>
+
 
 #### :pencil2: Baekjoon
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jeongmin9011)](https://solved.ac/jeongmin9011/)

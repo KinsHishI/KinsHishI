@@ -15,12 +15,12 @@ https://github.com/RE-BUY/RE-BUY-BE
 
 <br/>
 
-#### 경북대학교 경진대회
+#### 경북대학교 컴퓨터학부 경진대회
 https://github.com/As-KNU/AsKNU-BE
 
 <br/>
 
-#### 경북대학교 종합설계프로젝트1
+#### 경북대학교 컴퓨터학부 종합설계프로젝트1
 https://github.com/Efficient-AI-based-Development/Efficient-AI-based-Development-AI
 
 <br/>

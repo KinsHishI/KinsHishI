@@ -29,6 +29,8 @@ https://github.com/Efficient-AI-based-Development/Efficient-AI-based-Development
 
 #### :pencil2: Baekjoon
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jeongmin9011)](https://solved.ac/jeongmin9011/)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KinsHishI)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
 <br/>
   

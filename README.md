@@ -2,65 +2,73 @@
 
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=KinsHishI&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
 
-<br/><br/>
-
 ### 👋 Welcome to my GitHub profile
-### 💻 Backend & AI에 관심 있는 컴퓨터공학 전공 개발자입니다
-
-<br/><br/>
-
-## 🚀 Featured Projects
+### 💻 백엔드를 중심으로 AI·데이터·웹 서비스를 연결하는 컴퓨터공학 전공 개발자입니다
 
 </div>
 
-### 🏆 AI-conic Hackathon (대상)
-> **친환경 제품 거래 서비스를 위한 백엔드 아키텍처 설계 및 구현**
+## 🚀 Featured Projects
 
-- **Role**: Backend, API Design  
-- **Tech**: Java, Spring Boot, Docker  
-- **Repo**: https://github.com/RE-BUY/RE-BUY-BE
+### 🏃 [RunMile](https://github.com/33isGoo-d/runmile)
+> 마라톤 완주 보상부터 지역 가맹점 결제, 소비 데이터 분석까지 연결한 지역경제 활성화 프로토타입
 
-<br/>
+- **Contribution**: Spring Boot API와 배포 설정 개선, Polygon Amoy 완주 증명 연동, AI 배치 검증, 참가자·지도 화면 보완
+- **Tech**: Java 17, Spring Boot 3.3, PostgreSQL 16, Next.js 16, TypeScript, Python, XGBoost, Docker, Polygon Amoy
 
-### 🧩 컴퓨터학부 경진대회
-> **학부생 대상 문제 해결형 웹 서비스 백엔드 개발**
+### 🔗 [ITDA](https://github.com/kakaotechcampus-4/ktc4-kyungpook-2)
+> 카카오테크 캠퍼스 4기 팀 프로젝트로 개발한 기관·학부모 대상 서비스
 
-- **Role**: Backend  
-- **Tech**: Python, FastAPI, AI API  
-- **Repo**: https://github.com/As-KNU/AsKNU-BE
+- **Contribution**: 원본 파일 업로드·조회 API와 Local/S3 저장소 구현, 매칭 결과·검토 큐 도메인 및 API 설계
+- **Tech**: Java 21, Spring Boot 3.5, Spring Security, PostgreSQL, AWS S3, Docker, Testcontainers
 
-<br/>
+### 🌱 [RE:BUY](https://github.com/RE-BUY/RE-BUY-BE)
+> 친환경 제품 구매와 환경 활동을 크레딧으로 연결한 AI 기반 녹색 소비 플랫폼
 
-### 🧠 종합설계프로젝트 1
-> **AI 기반 개발 생산성 향상 자동화 시스템 구현**
+- **Contribution**: 백엔드 아키텍처와 REST API 설계·구현
+- **Tech**: Java 17, Spring Boot 3.2, PostgreSQL 15, Redis 7, Docker, Upstage Solar-Pro2
+- **Achievement**: AI-conic Hackathon 대상
 
-- **Role**: AI, Backend  
-- **Tech**: Python, FastAPI, LangChain, LangGraph  
-- **Repo**: https://github.com/Efficient-AI-based-Development/Efficient-AI-based-Development-AI
+### 🎓 [AsKNU](https://github.com/As-KNU/AsKNU-BE)
+> 경북대학교 컴퓨터학부 공지사항을 수집하고 질문에 답하는 AI 챗봇 백엔드
 
-<br/><br/>
+- **Contribution**: 공지사항 크롤링, 검색·요약, AI 챗봇 API 개발
+- **Tech**: Python, FastAPI, PostgreSQL, Supabase, BeautifulSoup, Upstage Solar Pro
+
+## 🛠️ Tech Stack
 
 <div align="center">
 
+**Backend & Data**
+
+<p>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white" alt="Spring Boot"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Redis-FF4438?style=flat&logo=redis&logoColor=white" alt="Redis"/>
+</p>
+
+**Web & Infrastructure**
+
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Amazon_S3-569A31?style=flat&logo=amazons3&logoColor=white" alt="Amazon S3"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
+</p>
+
+</div>
+
 ## 📊 Stats
 
+<div align="center">
+
 <p>
-  <img src="http://mazassumnida.wtf/api/generate_badge?boj=jeongmin9011" height="150"/>
+  <img src="https://mazassumnida.wtf/api/generate_badge?boj=jeongmin9011" height="150" alt="Solved.ac profile"/>
   &nbsp;&nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KinsHishI&theme=github_dark" height="150"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KinsHishI&theme=github_dark" height="150" alt="GitHub profile stats"/>
 </p>
-
-<br/><br/>
-
-## 🛠️ Skills & Tools
-
-<p>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=Github&logoColor=white"/>
-</p>
-
-<br/>
 
 </div>
